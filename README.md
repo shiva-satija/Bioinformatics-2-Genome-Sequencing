@@ -1,1 +1,1 @@
-# Bioinformatics-2-Genome-Sequencing
+# Bioinformatics-2-Genome-Sequencing Using Python
